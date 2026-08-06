@@ -6,7 +6,7 @@
 - **Course Code:** CSE 413
 - **Course Title:** Simulation and Modeling Lab
 - **Level/Term:** 4/1
-- **Credit:** 3
+- **Credit:** 1.5
 - **Instructor:** Afroja Ahmed Smrity
 - **Department:** Computer Science and Engineering (CSE)
 

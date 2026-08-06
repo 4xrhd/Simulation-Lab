@@ -1,6 +1,6 @@
 # Lab Performance 01 — Basic Matrix & Vector Operations in Simulation
 
-**Course Code:** CSE 413 | **Credit:** 3  
+**Course Code:** CSE 413 | **Credit:** 1.5  
 **Instructor:** Afroja Ahmed Smrity  
 **Notebook:** [`SIM_Lab1_Azhar_1120.ipynb`](file:///home/tr/Desktop/LAB-uni/simulation-lab/Lab-performances/Lab-performance-01/SIM_Lab1_Azhar_1120.ipynb)  
 

@@ -1,6 +1,6 @@
 # Lab Performance 02 — Unique Matrix Value Investigation
 
-**Course Code:** CSE 413 | **Credit:** 3  
+**Course Code:** CSE 413 | **Credit:** 1.5  
 **Instructor:** Afroja Ahmed Smrity  
 **Notebook:** [`SIM_Lab2_Azhar_1120.ipynb`](file:///home/tr/Desktop/LAB-uni/simulation-lab/Lab-performances/Lab-performance-02/SIM_Lab2_Azhar_1120.ipynb)  
 

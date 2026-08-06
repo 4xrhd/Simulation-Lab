@@ -1,7 +1,7 @@
 # Simulation and Modeling Lab — Course Structure & Directory Index
 **Course Code:** CSE 413  
 **Course Title:** Simulation and Modeling Lab  
-**Level/Term:** 4/1 | **Credit:** 3  
+**Level/Term:** 4/1 | **Credit:** 1.5  
 **Instructor:** Afroja Ahmed Smrity  
 
 ---
