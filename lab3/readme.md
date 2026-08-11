@@ -1,34 +1,30 @@
-# Class Performance 02 — Matrix Operations & Vector Visualizations
+# Class Performance 02 — Matrix Operations & Vector Visualization
 
 **Course Code:** CSE 413 | **Credit:** 1.5  
 **Instructor:** Afroja Ahmed Smrity  
 **Notebook:** [`Student_CP2_Azhar_1120.ipynb`](file:///home/tr/Desktop/LAB-uni/simulation-lab/lab3/Student_CP2_Azhar_1120.ipynb)  
-**Task Specification Document:** [`CP2 7B2.pdf`](file:///home/tr/Desktop/LAB-uni/simulation-lab/lab3/CP2%207B2.pdf)  
+**Task Specification PDF:** [`CP2 7B2.pdf`](file:///home/tr/Desktop/LAB-uni/simulation-lab/lab3/CP2%207B2.pdf)  
 
 ---
 
-## 📌 Short Revision Notes (CP2 Key Concepts)
+## 📌 Tasks Completed (`CP2 7B2.pdf`)
 
-### 1. Vector Generation & Comparison Plotting (`CP2 7B2.pdf` - Task 1)
-- **15-Element Random Vectors**: Generated using `np.random.rand(15)`.
+### 1. Task 1: Generate and Plot Two Random Vectors
+- **Vector Generation**: Generated two 15-element vectors (`v1`, `v2`) containing random floats using `np.random.rand(15)`.
 - **Matplotlib Line Graph (`plt.plot`)**:
-  - Plots two vectors on the same graph to compare distributions across element indices $1$ to $15$.
-  - Includes custom markers (`o`, `s`), line styles (`-`, `--`), colors, axis labels, grid, and legend.
+  - Plotted both vectors on the same line graph using markers (`o`, `--s`).
+  - Added plot title `Comparison of Two 15-Element Random Vectors`.
+  - Formatted x-axis (`Vector Element Index (1 to 15)`) and y-axis (`Float Value`).
+  - Added legend and grid for comparative clarity.
 
 ---
 
-### 2. Matrix Operations & Bar Plot Visualizations (`CP2 7B2.pdf` - Task 2)
-- **4×4 Random Matrices**: Generated using `np.random.randint(1, 10, size=(4, 4))`.
-- **Matrix Addition ($A + B$)**: Element-wise addition $(a_{ij} + b_{ij})$.
-- **Matrix Subtraction ($A - B$)**: Element-wise subtraction $(a_{ij} - b_{ij})$.
-- **Matrix Multiplication ($A \cdot B$)**: Dot product via `np.dot(A, B)` (compatible $4 \times 4$ matrix multiplication).
-- **Element-wise Bar Plots (`plt.subplots`, `axes[i].bar`)**:
-  - Each 4×4 matrix is flattened (`matrix.flatten()`) into 16 elements.
-  - Subplots display 16 distinct bars per operation representing individual element values.
-
----
-
-### 3. Matrix Fundamentals & Heatmaps
-- **Special Matrices**: Identity (`np.eye`), Zero (`np.zeros`), Ones (`np.ones`), Diagonal (`np.diag`), Upper/Lower Triangular (`np.triu`/`np.tril`).
-- **Linear Algebra**: Determinant (`np.linalg.det`), Rank (`np.linalg.matrix_rank`), Inverse (`np.linalg.inv`), Eigenvalues & Eigenvectors (`np.linalg.eig`), Characteristic Polynomial & Roots (`np.poly`/`np.roots`).
-- **Heatmap (`sns.heatmap`)**: Visualizes 2D float matrices with color intensity maps (`cmap='coolwarm'`).
+### 2. Task 2: Matrix Operations and Bar Plot Visualization (4×4 Matrices)
+- **4×4 Random Matrices**: Created two $4 \times 4$ matrices $A$ and $B$ containing random integer values.
+- **Matrix Operations**:
+  - **Addition ($A + B$)**: Element-wise matrix sum.
+  - **Subtraction ($A - B$)**: Element-wise matrix difference.
+  - **Multiplication ($A \cdot B$)**: Compatible $4 \times 4$ dot product matrix multiplication using `np.dot(A, B)`.
+- **Bar Plot Visualizations (`plt.subplots`, `axes[i].bar`)**:
+  - Flattened each $4 \times 4$ result matrix into 16 individual elements (`range(1, 17)`).
+  - Plotted $1 \times 3$ subplots of bar charts where **each bar represents one element of the 4×4 matrix**.
