@@ -49,11 +49,11 @@ simulation-lab/
 
 | Module / Lab Day | Directory Path | Description & Tasks Covered | Status |
 | :--- | :--- | :--- | :---: |
-| **Lab Day 01** | [`lab1/`](file:///home/tr/Desktop/LAB-uni/simulation-lab/lab1) | Basic Numpy operations, scalar & array functions, 3x2 matrix calculations, 2x3 vector functions, domain clipping (`np.clip`), descending sorting, and Seaborn heatmaps. ([Revision Notes](file:///home/tr/Desktop/LAB-uni/simulation-lab/Lab-performances/Lab-performance-01/readme.md)) | ✅ Completed |
-| **Lab Day 02** | [`lab2/`](file:///home/tr/Desktop/LAB-uni/simulation-lab/lab2) | Advanced scalar/array operations, matrix math, determinant/rank/eigenvalues, sorting & matrix bar plots (`SIM_CP1_Azhar_1120.ipynb`). | ✅ Completed |
-| **Lab Day 03** | [`lab3/`](file:///home/tr/Desktop/LAB-uni/simulation-lab/lab3) | Matrix operations, characteristic polynomials, Line graphs, 15-element Random Vector comparison plots, and Seaborn heatmaps (`Student_CP2_Azhar_1120.ipynb`). | ✅ Completed |
-| **Lab Performance 01** | [`Lab-performances/Lab-performance-01/`](file:///home/tr/Desktop/LAB-uni/simulation-lab/Lab-performances/Lab-performance-01) | Performance evaluation tasks corresponding to Lab Day 1 concepts. | ✅ Completed |
-| **Lab Performance 02** | [`Lab-performances/Lab-performance-02/`](file:///home/tr/Desktop/LAB-uni/simulation-lab/Lab-performances/Lab-performance-02) | Unique Matrix Value Investigation (Shape, Determinant, Rank, Eigenvalues, Inversion, Perturbations). ([Revision Notes](file:///home/tr/Desktop/LAB-uni/simulation-lab/Lab-performances/Lab-performance-02/readme.md)) | ✅ Completed |
+| **Lab Day 01** | [`lab1/`](lab1) | Basic Numpy operations, scalar & array functions, 3x2 matrix calculations, 2x3 vector functions, domain clipping (`np.clip`), descending sorting, and Seaborn heatmaps. ([Revision Notes](Lab-performances/Lab-performance-01/readme.md)) | ✅ Completed |
+| **Lab Day 02** | [`lab2/`](lab2) | Advanced scalar/array operations, matrix math, determinant/rank/eigenvalues, sorting & matrix bar plots (`SIM_CP1_Azhar_1120.ipynb`). | ✅ Completed |
+| **Lab Day 03** | [`lab3/`](lab3) | Matrix operations, characteristic polynomials, Line graphs, 15-element Random Vector comparison plots, and Seaborn heatmaps (`Student_CP2_Azhar_1120.ipynb`). | ✅ Completed |
+| **Lab Performance 01** | [`Lab-performances/Lab-performance-01/`](Lab-performances/Lab-performance-01) | Performance evaluation tasks corresponding to Lab Day 1 concepts. | ✅ Completed |
+| **Lab Performance 02** | [`Lab-performances/Lab-performance-02/`](Lab-performances/Lab-performance-02) | Unique Matrix Value Investigation (Shape, Determinant, Rank, Eigenvalues, Inversion, Perturbations). ([Revision Notes](Lab-performances/Lab-performance-02/readme.md)) | ✅ Completed |
 | **Lab Day 04** | *`lab4/` (Upcoming)* | Two-Sample t-Test in Python. | ⏳ Pending |
 | **Lab Day 05** | *`lab5/` (Upcoming)* | Chi-Square Goodness-of-Fit Test. | ⏳ Pending |
 | **Lab Day 06** | *`lab6/` (Upcoming)* | Performing Chi-Square Test on Real-World Datasets. | ⏳ Pending |
@@ -72,4 +72,4 @@ simulation-lab/
 Whenever a new lab class or performance task is added:
 1. Create the corresponding directory (e.g. `lab2/`, `Lab-performances/Lab-performance-02/`).
 2. Add the executed notebook into the folder using naming format `SIM_Lab<N>_<Name>_<ID>.ipynb`.
-3. Update the directory tree and the **Class & Lab Module Log** table in [`FOLDERS.md`](file:///home/tr/Desktop/LAB-uni/simulation-lab/FOLDERS.md).
+3. Update the directory tree and the **Class & Lab Module Log** table in [`FOLDERS.md`](FOLDERS.md).
