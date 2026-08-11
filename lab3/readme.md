@@ -2,8 +2,8 @@
 
 **Course Code:** CSE 413 | **Credit:** 1.5  
 **Instructor:** Afroja Ahmed Smrity  
-**Notebook:** [`Student_CP2_Azhar_1120.ipynb`](file:///home/tr/Desktop/LAB-uni/simulation-lab/lab3/Student_CP2_Azhar_1120.ipynb)  
-**Task Specification PDF:** [`CP2 7B2.pdf`](file:///home/tr/Desktop/LAB-uni/simulation-lab/lab3/CP2%207B2.pdf)  
+**Notebook:** [`Student_CP2_Azhar_1120.ipynb`](Student_CP2_Azhar_1120.ipynb)  
+**Task Specification PDF:** [`CP2 7B2.pdf`](CP2%207B2.pdf)  
 
 ---
 
