@@ -30,18 +30,37 @@ simulation-lab/
 ├── .gitignore                         # Build and environment exclusions
 │
 ├── lab1/                              # Lab Day 1 Materials & Submissions
+│   ├── README.md                      # Lab 1 overview & documentation
 │   ├── SIM_Lab_Day 1.ipynb            # Class reference notebook
 │   └── SIM_Lab1_Azhar_1120.ipynb      # Completed Day 1 notebook submission
 │
+├── lab2/                              # Lab Day 2 Materials & Submissions
+│   ├── README.md                      # Lab 2 overview & documentation
+│   ├── Class Performance 1.pdf        # Class Performance 1 task specification
+│   └── SIM_CP1_Azhar_1120.ipynb       # Class Performance 1 submission notebook
+│
+├── lab3/                              # Lab Day 3 Materials & Submissions
+│   ├── readme.md                      # Lab 3 overview & documentation
+│   ├── CP2 7B2.pdf                    # Class Performance 2 task specification
+│   ├── Student_Copy_SIM_Lab_Day_2(matrix_op_graph_plot_subplot).ipynb # Template notebook
+│   └── Student_CP2_Azhar_1120.ipynb   # Class Performance 2 submission notebook
+│
 ├── Lab-performances/                  # Lab Performance Evaluations
-│   └── Lab-performance-01/            # Performance Evaluation 01
-│       ├── SIM_Lab1_Azhar_1120.ipynb  # Executed lab assignment notebook
-│       └── readme.md                  # Lab 1 revision notes & mathematical concepts
+│   ├── Lab-performance-01/            # Lab Performance 01 Module
+│   │   ├── SIM_Lab1_Azhar_1120.ipynb  # Executed lab assignment notebook
+│   │   └── readme.md                  # Lab 1 revision notes & mathematical concepts
+│   └── Lab-performance-02/            # Lab Performance 02 Module
+│       ├── Task-Day-2.pdf             # Task-Day-2 specification PDF
+│       ├── SIM_Lab2_Azhar_1120.ipynb  # Unique Matrix Value Investigation notebook
+│       └── readme.md                  # Lab 2 revision notes & mathematical concepts
 │
 ├── Course-docs/                       # Official syllabus & course outline
 │   └── CSE 413 Simulation_and_Modeling_Lab_Course_Outline_7A_updated_COs.pdf
 │
-└── notes/                             # Lecture and study notes
+└── notes/                             # Structured lecture & study revision notes
+    ├── Lab1_Numpy_Basics.md           # Revision notes for Lab 1
+    ├── Lab2_Matrix_Properties.md      # Revision notes for Lab 2
+    └── Lab3_Visualization_Operations.md # Revision notes for Lab 3
 ```
 
 ---
@@ -51,7 +70,10 @@ simulation-lab/
 | Module / Lab Day | Directory Path | Key Topics & Operations | Status |
 | :--- | :--- | :--- | :---: |
 | **Lab Day 01** | [`lab1/`](lab1/) | Scalar-array broadcasting, 3×2 & 2×3 matrix operations, domain clipping (`np.clip`), descending sorting, summary statistics, Seaborn heatmaps. ([Revision Notes](Lab-performances/Lab-performance-01/readme.md)) | ✅ Completed |
-| **Lab Performance 01** | [`Lab-performances/Lab-performance-01/`](Lab-performances/Lab-performance-01/) | Performance assignment submission & execution verification. | ✅ Completed |
+| **Lab Day 02** | [`lab2/`](lab2/) | Advanced scalar/array math, 4×3 matrix functions, determinant, rank, eigenvalues, row/column statistics (`SIM_CP1_Azhar_1120.ipynb`). ([Revision Notes](lab2/README.md)) | ✅ Completed |
+| **Lab Day 03** | [`lab3/`](lab3/) | 15-element vector comparison plots, 4×4 matrix operations (addition, subtraction, multiplication), subplots & element bar charts (`Student_CP2_Azhar_1120.ipynb`). ([Revision Notes](lab3/readme.md)) | ✅ Completed |
+| **Lab Performance 01** | [`Lab-performances/Lab-performance-01/`](Lab-performances/Lab-performance-01/) | Performance evaluation task corresponding to Lab Day 1 concepts. | ✅ Completed |
+| **Lab Performance 02** | [`Lab-performances/Lab-performance-02/`](Lab-performances/Lab-performance-02/) | Unique Matrix Value Investigation (Determinant, Rank, Eigenvalues, Inversion, Perturbations). | ✅ Completed |
 
 ---
 
