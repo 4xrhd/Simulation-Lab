@@ -22,6 +22,13 @@ simulation-lab/
 │   ├── Student_CP2_Azhar_1120.ipynb   # Class Performance 2 notebook (Matrix & Vector Visualization)
 │   └── readme.md                      # Class Performance 2 Documentation & Revision Notes
 │
+├── lab4/                              # Lab Day 4 Materials & Notebooks
+│   ├── SIMLAB_Day_3.ipynb            # Original class reference notebook
+│   ├── SIM_Lab4_Azhar_1120.ipynb      # Completed Day 4 notebook submission
+│   ├── readme.md                      # Lab 4 Documentation & Revision Notes
+│   ├── Lab4_Distributions_and_Random_Variates.docx # Word document notes
+│   └── Lab4_Distributions_and_Random_Variates.pdf  # PDF document notes
+│
 ├── Lab-performances/                  # Lab Performance Evaluations & Tasks
 │   ├── Lab-performance-01/            # Lab Performance 01 Module
 │   │   ├── SIM_Lab1_Azhar_1120.ipynb  # Performance assignment notebook
@@ -35,6 +42,10 @@ simulation-lab/
 │   └── CSE 413 Simulation_and_Modeling_Lab_Course_Outline_7A_updated_COs.pdf
 │
 ├── notes/                             # Personal/class study notes directory
+│   ├── Lab1_Numpy_Basics.md
+│   ├── Lab2_Matrix_Properties.md
+│   ├── Lab3_Visualization_Operations.md
+│   └── Lab4_Distributions_and_Random_Variates.md
 │
 ├── .agents/                           # Agent & Repository Rules
 │   └── AGENTS.md                      # Custom agent instructions & lab guidelines
@@ -54,7 +65,7 @@ simulation-lab/
 | **Lab Day 03** | [`lab3/`](lab3) | Matrix operations, characteristic polynomials, Line graphs, 15-element Random Vector comparison plots, and Seaborn heatmaps (`Student_CP2_Azhar_1120.ipynb`). | ✅ Completed |
 | **Lab Performance 01** | [`Lab-performances/Lab-performance-01/`](Lab-performances/Lab-performance-01) | Performance evaluation tasks corresponding to Lab Day 1 concepts. | ✅ Completed |
 | **Lab Performance 02** | [`Lab-performances/Lab-performance-02/`](Lab-performances/Lab-performance-02) | Unique Matrix Value Investigation (Shape, Determinant, Rank, Eigenvalues, Inversion, Perturbations). ([Revision Notes](Lab-performances/Lab-performance-02/readme.md)) | ✅ Completed |
-| **Lab Day 04** | *`lab4/` (Upcoming)* | Two-Sample t-Test in Python. | ⏳ Pending |
+| **Lab Day 04** | [`lab4/`](lab4) | Uniform & Normal Distribution, Frequency vs. Density Histograms, Random Permutations, and Seed Control (`SIM_Lab4_Azhar_1120.ipynb`). ([Revision Notes](lab4/readme.md)) | ✅ Completed |
 | **Lab Day 05** | *`lab5/` (Upcoming)* | Chi-Square Goodness-of-Fit Test. | ⏳ Pending |
 | **Lab Day 06** | *`lab6/` (Upcoming)* | Performing Chi-Square Test on Real-World Datasets. | ⏳ Pending |
 | **Lab Day 07** | *`lab7/` (Upcoming)* | One-Sample Kolmogorov-Smirnov (K-S) Test. | ⏳ Pending |

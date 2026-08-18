@@ -45,6 +45,13 @@ simulation-lab/
 │   ├── Student_Copy_SIM_Lab_Day_2(matrix_op_graph_plot_subplot).ipynb # Template notebook
 │   └── Student_CP2_Azhar_1120.ipynb   # Class Performance 2 submission notebook
 │
+├── lab4/                              # Lab Day 4 Materials & Submissions
+│   ├── readme.md                      # Lab 4 overview & revision notes
+│   ├── SIMLAB_Day_3.ipynb            # Class reference notebook
+│   ├── SIM_Lab4_Azhar_1120.ipynb      # Completed Day 4 notebook submission
+│   ├── Lab4_Distributions_and_Random_Variates.docx # Word document notes
+│   └── Lab4_Distributions_and_Random_Variates.pdf  # Printable PDF notes
+│
 ├── Lab-performances/                  # Lab Performance Evaluations
 │   ├── Lab-performance-01/            # Lab Performance 01 Module
 │   │   ├── SIM_Lab1_Azhar_1120.ipynb  # Executed lab assignment notebook
@@ -60,7 +67,8 @@ simulation-lab/
 └── notes/                             # Structured lecture & study revision notes
     ├── Lab1_Numpy_Basics.md           # Revision notes for Lab 1
     ├── Lab2_Matrix_Properties.md      # Revision notes for Lab 2
-    └── Lab3_Visualization_Operations.md # Revision notes for Lab 3
+    ├── Lab3_Visualization_Operations.md # Revision notes for Lab 3
+    └── Lab4_Distributions_and_Random_Variates.md # Revision notes for Lab 4
 ```
 
 ---
@@ -74,6 +82,7 @@ simulation-lab/
 | **Lab Day 03** | [`lab3/`](lab3/) | 15-element vector comparison plots, 4×4 matrix operations (addition, subtraction, multiplication), subplots & element bar charts (`Student_CP2_Azhar_1120.ipynb`). ([Revision Notes](lab3/readme.md)) | ✅ Completed |
 | **Lab Performance 01** | [`Lab-performances/Lab-performance-01/`](Lab-performances/Lab-performance-01/) | Performance evaluation task corresponding to Lab Day 1 concepts. | ✅ Completed |
 | **Lab Performance 02** | [`Lab-performances/Lab-performance-02/`](Lab-performances/Lab-performance-02/) | Unique Matrix Value Investigation (Determinant, Rank, Eigenvalues, Inversion, Perturbations). | ✅ Completed |
+| **Lab Day 04** | [`lab4/`](lab4/) | Uniform & Normal Distribution, Frequency vs. Density Histograms, Random Permutations, and Seed Control (`SIM_Lab4_Azhar_1120.ipynb`). ([Revision Notes](lab4/readme.md)) | ✅ Completed |
 
 ---
 
