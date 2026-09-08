@@ -33,6 +33,7 @@ simulation-lab/
 │   ├── Day_4_Monte_Carlo_Simulation.ipynb
 │   ├── Monte_Carlo_Simulation_Basics.pptx.pdf
 │   ├── SIM_Day_6 (1).ipynb            # Two-Sample t-Test Demonstration & Problem Statement
+│   ├── T_test.ipynb                   # One-Sample t-Test Demonstration
 │   └── Two_Sample_t_Test.pptx.pdf
 │
 ├── lab6/                              # Lab Day 6 Materials & Notebooks
