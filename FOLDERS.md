@@ -29,14 +29,23 @@ simulation-lab/
 │   ├── Lab4_Distributions_and_Random_Variates.docx # Word document notes
 │   └── Lab4_Distributions_and_Random_Variates.pdf  # PDF document notes
 │
+├── lab5/                              # Lab Day 5 Materials & Notebooks
+│   ├── Day_4_Monte_Carlo_Simulation.ipynb
+│   ├── Monte_Carlo_Simulation_Basics.pptx.pdf
+│   ├── SIM_Day_6 (1).ipynb            # Two-Sample t-Test Demonstration & Problem Statement
+│   └── Two_Sample_t_Test.pptx.pdf
+│
 ├── Lab-performances/                  # Lab Performance Evaluations & Tasks
 │   ├── Lab-performance-01/            # Lab Performance 01 Module
 │   │   ├── SIM_Lab1_Azhar_1120.ipynb  # Performance assignment notebook
 │   │   └── readme.md                  # Lab Performance 01 Documentation & Revision Notes
-│   └── Lab-performance-02/            # Lab Performance 02 Module
-│       ├── Task-Day-2.pdf             # Task specification PDF
-│       ├── SIM_Lab2_Azhar_1120.ipynb  # Unique Matrix Value Investigation notebook
-│       └── readme.md                  # Lab Performance 02 Documentation & Revision Notes
+│   ├── Lab-performance-02/            # Lab Performance 02 Module
+│   │   ├── Task-Day-2.pdf             # Task specification PDF
+│   │   ├── SIM_Lab2_Azhar_1120.ipynb  # Unique Matrix Value Investigation notebook
+│   │   └── readme.md                  # Lab Performance 02 Documentation & Revision Notes
+│   └── Lab-performance-03/            # Lab Performance 03 Module
+│       ├── SIM_Lab3_Azhar_1120.ipynb  # Two-Sample t-Test Hypothesis Testing & CI notebook
+│       └── readme.md                  # Lab Performance 03 Documentation & Revision Notes
 │
 ├── Course-docs/                       # Official syllabus & course outline documents
 │   └── CSE 413 Simulation_and_Modeling_Lab_Course_Outline_7A_updated_COs.pdf
@@ -66,7 +75,8 @@ simulation-lab/
 | **Lab Performance 01** | [`Lab-performances/Lab-performance-01/`](Lab-performances/Lab-performance-01) | Performance evaluation tasks corresponding to Lab Day 1 concepts. | ✅ Completed |
 | **Lab Performance 02** | [`Lab-performances/Lab-performance-02/`](Lab-performances/Lab-performance-02) | Unique Matrix Value Investigation (Shape, Determinant, Rank, Eigenvalues, Inversion, Perturbations). ([Revision Notes](Lab-performances/Lab-performance-02/readme.md)) | ✅ Completed |
 | **Lab Day 04** | [`lab4/`](lab4) | Uniform & Normal Distribution, Frequency vs. Density Histograms, Random Permutations, and Seed Control (`SIM_Lab4_Azhar_1120.ipynb`). ([Revision Notes](lab4/readme.md)) | ✅ Completed |
-| **Lab Day 05** | *`lab5/` (Upcoming)* | Chi-Square Goodness-of-Fit Test. | ⏳ Pending |
+| **Lab Day 05** | [`lab5/`](lab5) | Two-Sample t-Test & Monte Carlo Simulation (`SIM_Day_6 (1).ipynb`, `Day_4_Monte_Carlo_Simulation.ipynb`). | ✅ Completed |
+| **Lab Performance 03** | [`Lab-performances/Lab-performance-03/`](Lab-performances/Lab-performance-03) | Two-Sample t-Test Hypothesis Testing, Pooled Variance, $t$-statistic, 95% Confidence Interval, and Visualization (`SIM_Lab3_Azhar_1120.ipynb`). ([Revision Notes](Lab-performances/Lab-performance-03/readme.md)) | ✅ Completed |
 | **Lab Day 06** | *`lab6/` (Upcoming)* | Performing Chi-Square Test on Real-World Datasets. | ⏳ Pending |
 | **Lab Day 07** | *`lab7/` (Upcoming)* | One-Sample Kolmogorov-Smirnov (K-S) Test. | ⏳ Pending |
 | **Lab Day 08** | *`lab8/` (Upcoming)* | Two-Sample Kolmogorov-Smirnov (K-S) Test. | ⏳ Pending |
