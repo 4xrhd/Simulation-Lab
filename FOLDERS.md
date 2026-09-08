@@ -35,6 +35,12 @@ simulation-lab/
 │   ├── SIM_Day_6 (1).ipynb            # Two-Sample t-Test Demonstration & Problem Statement
 │   └── Two_Sample_t_Test.pptx.pdf
 │
+├── lab6/                              # Lab Day 6 Materials & Notebooks
+│   ├── T test (7B2).pdf               # Task specification PDF (One-Sample & Two-Sample t-Test)
+│   ├── SIM_Lab6_Azhar_1120.ipynb      # Completed Lab 6 notebook submission
+│   ├── 1120_7B2.ipynb                 # Section 7B2 submission copy
+│   └── readme.md                      # Lab 6 Documentation & Revision Notes
+│
 ├── Lab-performances/                  # Lab Performance Evaluations & Tasks
 │   ├── Lab-performance-01/            # Lab Performance 01 Module
 │   │   ├── SIM_Lab1_Azhar_1120.ipynb  # Performance assignment notebook
@@ -77,7 +83,7 @@ simulation-lab/
 | **Lab Day 04** | [`lab4/`](lab4) | Uniform & Normal Distribution, Frequency vs. Density Histograms, Random Permutations, and Seed Control (`SIM_Lab4_Azhar_1120.ipynb`). ([Revision Notes](lab4/readme.md)) | ✅ Completed |
 | **Lab Day 05** | [`lab5/`](lab5) | Two-Sample t-Test & Monte Carlo Simulation (`SIM_Day_6 (1).ipynb`, `Day_4_Monte_Carlo_Simulation.ipynb`). | ✅ Completed |
 | **Lab Performance 03** | [`Lab-performances/Lab-performance-03/`](Lab-performances/Lab-performance-03) | Two-Sample t-Test Hypothesis Testing, Pooled Variance, $t$-statistic, 95% Confidence Interval, and Visualization (`SIM_Lab3_Azhar_1120.ipynb`). ([Revision Notes](Lab-performances/Lab-performance-03/readme.md)) | ✅ Completed |
-| **Lab Day 06** | *`lab6/` (Upcoming)* | Performing Chi-Square Test on Real-World Datasets. | ⏳ Pending |
+| **Lab Day 06** | [`lab6/`](lab6) | One-Sample t-Test (Lab completion times) and Two-Sample Pooled t-Test (Algorithm comparison) (`SIM_Lab6_Azhar_1120.ipynb`). ([Revision Notes](lab6/readme.md)) | ✅ Completed |
 | **Lab Day 07** | *`lab7/` (Upcoming)* | One-Sample Kolmogorov-Smirnov (K-S) Test. | ⏳ Pending |
 | **Lab Day 08** | *`lab8/` (Upcoming)* | Two-Sample Kolmogorov-Smirnov (K-S) Test. | ⏳ Pending |
 | **Lab Day 09** | *`lab9/` (Upcoming)* | Testing Normality (Standard Normal Distribution). | ⏳ Pending |
